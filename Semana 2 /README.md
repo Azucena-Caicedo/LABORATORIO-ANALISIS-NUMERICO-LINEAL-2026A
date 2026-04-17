@@ -117,3 +117,25 @@ A_6 =
 $$
 
 ---
+## 📘 Ejercicios: número de máquina (epsilon)
+
+---
+
+### Ejercicio 1: Determinación experimental de $\varepsilon$
+
+#### 🔹 Instrucciones
+
+1. Ejecute el siguiente código.
+2. Observe el valor obtenido.
+3. Compare con el valor dado por `np.finfo`.
+4. Explique qué representa el resultado.
+
+```python
+eps = 1.0
+
+while 1 + eps > 1:
+    eps = eps / 2
+
+eps = eps * 2
+
+print(eps)

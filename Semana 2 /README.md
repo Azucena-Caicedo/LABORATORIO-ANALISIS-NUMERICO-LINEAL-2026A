@@ -139,3 +139,11 @@ while 1 + eps > 1:
 eps = eps * 2
 
 print(eps)
+## 🧠 ¿Qué hace `np.finfo`?
+
+Sirve para consultar propiedades de los números en punto flotante, como:
+
+- precisión de la máquina  
+- número más pequeño representable  
+- número más grande representable  
+- epsilon de máquina  

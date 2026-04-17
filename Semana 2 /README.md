@@ -150,7 +150,10 @@ Sirve para consultar propiedades de los números en punto flotante, como:
 - número más grande representable  
 - epsilon de máquina
 
-Preguntas
+**Preguntas**
+
 ¿Qué condición se está evaluando en el ciclo?
+
 ¿Por qué se multiplica por 2 al final?
+
 ¿Qué relación tiene este valor con la precisión de la máquina?

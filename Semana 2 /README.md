@@ -7,7 +7,7 @@ Para cada una de las siguientes matrices, calcule:
    $$
    \|A\|_1 = \max_j \sum_i |a_{ij}|
    $$
-
+----
 3. La **norma infinito**
    
    $$

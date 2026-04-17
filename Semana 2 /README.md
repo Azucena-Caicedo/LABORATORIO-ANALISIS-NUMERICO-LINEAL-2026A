@@ -3,16 +3,19 @@
 Para cada una de las siguientes matrices, calcule:
 
 1. La **norma 1**
+   
    $$
    \|A\|_1 = \max_j \sum_i |a_{ij}|
    $$
 
-2. La **norma infinito**
+3. La **norma infinito**
+   
    $$
    \|A\|_\infty = \max_i \sum_j |a_{ij}|
    $$
 
-3. La **norma espectral**
+5. La **norma espectral**
+   
    $$
    \|A\|_2 = \sqrt{\lambda_{\max}(A^T A)}
    $$
